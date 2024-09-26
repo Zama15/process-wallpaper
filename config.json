@@ -4,7 +4,10 @@
         "width": 1920
     },
     "wordcloud": {
-        "background": "#101010",
-        "margin": 20
-    }
+        "background": "#010101",
+        "margin": 20,
+        "colors": ["#F54F27", "#F59727", "#F57228", "#F52B27", "#F5B227", "#F5A679"]
+    },
+    "timeSeg": 60
 }
+
